@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewSarcasmProvider/course-work-7th-sem/static/css/main.edf096a1.css",
+    "main.js": "/NewSarcasmProvider/course-work-7th-sem/static/js/main.1e26bd68.js",
+    "static/js/787.41a4e04e.chunk.js": "/NewSarcasmProvider/course-work-7th-sem/static/js/787.41a4e04e.chunk.js",
+    "static/media/github.png": "/NewSarcasmProvider/course-work-7th-sem/static/media/github.d3263084234dc705b2ae.png",
+    "index.html": "/NewSarcasmProvider/course-work-7th-sem/index.html",
+    "main.edf096a1.css.map": "/NewSarcasmProvider/course-work-7th-sem/static/css/main.edf096a1.css.map",
+    "main.1e26bd68.js.map": "/NewSarcasmProvider/course-work-7th-sem/static/js/main.1e26bd68.js.map",
+    "787.41a4e04e.chunk.js.map": "/NewSarcasmProvider/course-work-7th-sem/static/js/787.41a4e04e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edf096a1.css",
+    "static/js/main.1e26bd68.js"
+  ]
+}
